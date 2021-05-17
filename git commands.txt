@@ -1,0 +1,374 @@
+    1  pwd
+    2  cls
+    3  clear
+    4  root
+    5  sudo
+    6  su
+    7  cls
+    8  clear
+    9  ls
+   10  cls
+   11  clear
+   12  help
+   13  cls
+   14  clear
+   15  git
+   16  python
+   17  cls
+   18  clear
+   19  git config --global user.name Dheeraj
+   20  git config --global user.email djgupta820@gmail.com
+   21  git config --global user.email
+   22  git config --global user.name
+   23  clear
+   24   
+   25  clear
+   26  user.name
+   27  cls
+   28  git config --global user.naem
+   29  git config --global user.name
+   30  clear
+   31  cd ..
+   32  cd git
+   33  cd /desktop
+   34  clear
+   35  pwd
+   36  clear
+   37  git init
+   38  ls -lart
+   39  index.html
+   40  clear
+   41  git status
+   42  git add index.html
+   43  git status
+   44  git commit
+   45  git status
+   46  touch about.html
+   47  touch contact.html
+   48  touch monuments.html
+   49  get status
+   50  git status
+   51  git add -A
+   52  git status
+   53  git status
+   54  git add -A
+   55  git status
+   56  git commit -m "Added more HTMLs"
+   57  git status
+   58  clear
+   59  git status
+   60  git add -A
+   61  git commit -m "Added more HTMLs"
+   62  git status
+   63  git checkout
+   64  git checkout about.html
+   65  git status
+   66  git status
+   67  git checkout -f
+   68  git status
+   69  git log
+   70  cls
+   71  clear
+   72  git log -p -1
+   73  git div
+   74  clear
+   75  git status
+   76  git status
+   77  git div
+   78  git diff
+   79  git commit
+   80  git status
+   81  git add -A
+   82  git commit
+   83  commigit commit -m "hurray"
+   84  git commit -m "hurray"
+   85  git status
+   86  git diff
+   87  git diff --stage
+   88  git diff --staged
+   89  git status
+   90  git checkout -f
+   91  git status
+   92  git add -A
+   93  git commit -m "Submitted"
+   94  git status
+   95  git status
+   96  git diff
+   97  git add -A
+   98  git diff
+   99  git diff
+  100  git add -A
+  101  git diff
+  102  git status
+  103  git diff --staged
+  104  git status
+  105  git chechout -f
+  106  git checkout -f
+  107  git status
+  108  clear
+  109  git status
+  110  git status
+  111  git commit -a -m "Skipped staging area and fixed<"
+  112  git log
+  113  clear
+  114  git status
+  115  ls
+  116  touch waste.html
+  117  git add -A
+  118  git commit -a -m "new file added waste"
+  119  ls
+  120  git status
+  121  git rm --cached waste.html
+  122  git status
+  123  git add -A
+  124  git status
+  125  ls
+  126  git rm waste.html
+  127  git add -A
+  128  git status
+  129  git commit -a -m "removing waste"
+  130  git log -p -2
+  131  git status
+  132  git status -s
+  133  git status -s
+  134  git add -A
+  135  git status -s
+  136  clear
+  137  touch .gitignore
+  138  git status
+  139  git rm .gitignore 
+  140  git rm .gitignore
+  141  git add -A
+  142  git status
+  143  git commin -m "Changs done"
+  144  git commit -m "Changs done"
+  145  git log -[ -1
+  146  git log -p -1
+  147  clear
+  148  touch .gitignore
+  149  git status
+  150  git checkout *
+  151  touch mylogs.log
+  152  git add -A
+  153  git status
+  154  git commit -a -m "ignore some files and added .gitignore"
+  155  git status
+  156  git status
+  157  git add -A
+  158  git status
+  159  clear
+  160  git status
+  161  git commit -a -m "done"
+  162  git ststua
+  163  git ststus
+  164  git status
+  165  clear
+  166  git status
+  167  git branch feature1
+  168  git branch
+  169  git checkout feature1
+  170  git status
+  171  cls
+  172  git status
+  173  clear
+  174  git checkout maser
+  175  git checkout master
+  176   clear
+  177  git checkout master 
+  178  clear
+  179  git status
+  180  clear
+  181  git remote add origin http://github.com/djgupta820/githubpractice.git
+  182  git remote
+  183  git remote -v
+  184  get push origin master
+  185  git push origin master
+  186  git push
+  187  git push --det-upstream origin master
+  188  git push --set-upstream origin master
+  189  git push
+  190  clear
+  191  history
+  192  clear
+  193  clear
+  194  ls
+  195  clear
+  196  pwd
+  197  passwd
+  198  whoami
+  199  whois
+  200  clear
+  201  for i echo "hello"
+  202  echo "hello"
+  203  gcc
+  204  clear
+  205  python
+  206  ls
+  207  cd /
+  208  ls
+  209  exit
+  210  clear
+  211  dir
+  212  clear
+  213  history
+  214  clear
+  215  pwd
+  216  ld
+  217  ls
+  218  cd Desktop/
+  219  cd git
+  220  clear
+  221  history > git.txt
+  222  cat git.txt
+  223  clear
+  224  git mkdir portfolio
+  225  git mkdir port
+  226  clear
+  227  mk port
+  228  git mk port
+  229  git --help
+  230  clear
+  231  mkdir port
+  232  cd port
+  233  dir
+  234  clear
+  235  ls -lart
+  236  git --global user.name
+  237  git config --global user.name
+  238  user.name
+  239  clear
+  240  git init
+  241  ls -lart
+  242  clear
+  243  git clone http://github.com/djgupta820/portfolio
+  244  ls
+  245  cd portfolio
+  246  ls
+  247  notepad
+  248  notepad index.html
+  249  git status
+  250  clear
+  251  exit
+  252  touch index.html
+  253  git add index.html
+  254  git add -A
+  255  git checkout -b navigation
+  256  cls
+  257  clear
+  258  git status
+  259  git config --global user.email
+  260  git init
+  261  git status
+  262  clear
+  263  ls
+  264  cd Desktop/
+  265  cd git
+  266  cd port/
+  267  dir
+  268  cd portfolio
+  269  ls
+  270  clear
+  271  cd ..
+  272  cd ..
+  273  rm port
+  274  rm --help
+  275  clear
+  276  mkdir nav
+  277  git branch
+  278  git branch navigation
+  279  git branch 
+  280  git checkout navigation 
+  281  clear
+  282  ls
+  283  cd nav
+  284  ls
+  285  clear
+  286  ls
+  287  touch index.html
+  288  git init
+  289  ls
+  290  ls -lart
+  291  git status
+  292  git add index.html
+  293  git status
+  294  git commit -a -m "index.html created"
+  295  notepad index.html
+  296  git status
+  297  notepad index.html
+  298  git status
+  299  git commit -m "Second commit"
+  300  git commit -a -m "Second commit"
+  301  git status
+  302  git checkout index.html
+  303  notepad index.htl
+  304  notepad index.html
+  305  git log
+  306  git diff 
+  307  git remote add origin http://github.com/djgupta820/htmlnavbar.git
+  308  git remote
+  309  git remote -v
+  310  git push origin master
+  311  notepad index.html
+  312  git commit -a -m "Third commit"
+  313  git push origin master
+  314  git push
+  315  git push --set-upstream origin master
+  316  git push
+  317  clear
+  318  exit
+  319  git status
+  320  git init
+  321  git status
+  322  git add new.txt
+  323  git status
+  324  git commit
+  325  clear
+  326  git commit -m "new commit"
+  327  git status
+  328  clear
+  329  touch new1.txt
+  330  git status
+  331  git add -A
+  332  git status
+  333  git commit -m "commited new file"
+  334  git status
+  335  git statsu
+  336  git status
+  337  git add new.txt
+  338  git status
+  339  git status
+  340  git commit -a -m "all commites done"
+  341  git status
+  342  clear
+  343  ixit
+  344  exit
+  345  git status
+  346  git init
+  347  git status
+  348  exit
+  349  git status
+  350  git add new.txt
+  351  git status
+  352  git commit
+  353  vim
+  354  cherry-pick
+  355  git cherry-pick
+  356  clear
+  357  git status
+  358  pwd
+  359  xlear
+  360  clear
+  361  cd..
+  362  cd ..
+  363  git rm Starting\ git
+  364  rmdir "stating git"
+  365  vim
+  366  git init
+  367  git status
+  368  git add -A
+  369  git status
+  370  git commit
+  371  git init
+  372  git status
+  373  git commit -m "first commit"
+  374  history > "git commands".txt
